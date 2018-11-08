@@ -1,0 +1,163 @@
+body{
+
+margin: 0;
+
+background: #1fb9ac;
+}
+
+image{
+
+}
+
+.image-section h1{
+
+margin: 0;
+
+padding-bottom: 47px;
+
+text-align: center;
+
+color: white;
+
+font-size: 35px;
+}
+
+header{
+
+background: #130202;
+}
+
+.container{
+
+width: 1200px;
+
+margin-left: auto;
+
+margin-right: auto;
+
+/* background: #f5ecec; */
+
+overflow: hidden;
+
+/* box-sizing: border-box; */
+
+/* padding: 24px; */
+
+/* float: left; */
+}
+
+.logo{
+
+width: 20%;
+
+float: left;
+}
+nav{
+
+width: 80%;
+
+float: left;
+}
+
+nav ul{
+
+padding: 0;
+
+margin: 0;
+
+text-align: right;
+}
+
+nav ul li{
+
+/* float: left; */
+
+text-transform: uppercase;
+
+list-style-type: none;
+
+display: inline-block;
+
+color: #2dc874;
+}
+
+nav ul li a{
+
+text-decoration: none;
+
+padding: 10px 20px;
+
+display: block;
+
+color: #2affc7;
+
+font-size: 18px;
+}
+
+nav ul li a:hover{
+
+}
+
+.text-section{
+
+padding: 50px 0;
+}
+
+.textup{
+
+/* text-align: center; */
+
+background: gainsboro;
+
+float: left;
+
+width: 31.33%;
+
+text-align: center;
+
+padding: 38px;
+
+box-sizing: border-box;
+
+/* display: inline-block; */
+
+margin: 7px;
+}
+.textup h1{
+
+}
+
+.textup p{
+
+}
+.image-section{
+
+
+
+}
+
+.imageup{
+	float: left;
+	width: 31.33%;
+	box-sizing: border-box;
+	margin: 7px;
+	padding-bottom: 28px;
+}
+
+.footer{
+
+text-align: center;
+
+color: wheat;
+
+background: black;
+
+padding-top: 20px;
+}
+.footer h1 {
+
+}
+
+.footer p {
+	
+}
